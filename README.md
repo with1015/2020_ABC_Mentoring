@@ -11,3 +11,5 @@ week 3 | Shell script 1    | week 9  | Metaprogramming
 week 4 | Shell script 2    | week 10 | Security and Cryptography
 week 5 | Text Editor (Vim) | week 11 | Potpourri
 week 6 | Data Wrangling    | week 12 | Special Topic and Q&A 
+
+All contents is based on <a href="https://missing.csail.mit.edu/2020/">MIT missing course</a>
