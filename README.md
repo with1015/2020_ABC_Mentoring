@@ -1,9 +1,9 @@
-## 2020 UNIST Winter ABC Mentoring Program
+# 2020 UNIST Winter ABC Mentoring Program
 
 Team 5 Mentor Hyunjoon Jeong
 
-# Course Plan  
-
+## Course Plan  
+|:---:|:---|:---:|:---|
 | week 1 | Orientation       | week 7  | Command-line Environment  |  
 | week 2 | Git & VCS         | week 8  | Debugging and Profiling   |  
 | week 3 | Shell script 1    | week 9  | Metaprogramming           |  
